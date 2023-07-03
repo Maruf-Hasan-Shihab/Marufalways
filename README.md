@@ -2,8 +2,6 @@
 #### Web Developer
 ![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/347644538_917969172625442_3406304645416220856_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=kRgh2iBsGVcAX-CZevM&_nc_ht=scontent.fdac7-1.fna&oh=00_AfC1pwh7kIwz4qU1Axa5vOxsWP18AW4uU1e6rHxR-hPy1w&oe=64A72597)
 
-Assalamualikum
-Welcome My Github Profile
 
 Skills: Html  / Css / Javascript  
 
